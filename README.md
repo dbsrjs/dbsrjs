@@ -13,10 +13,10 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&layout=compact)
 
   ---------------------
-<h2> Experience </h2>
+<h1> Experience </h1>
 
 | What | When | Where |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|
 | ShootingGame(2D) | 2023.02.13 ~ 2023.02.23 | SBS GAME ACADEMY |
 | land mine(2D) | 2023.02.24 ~ 2023.03.03 | SBS GAME ACADEMY |  
 | Tetris(2D) | 2023.03.06 ~ 2023.03.30 | SBS GAME ACADEMY |
