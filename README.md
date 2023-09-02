@@ -25,6 +25,5 @@
 | Inventory(2D) | 2023.05.30 ~ 2023.06.19 | SBS GAME ACADEMY |  
 | MIniGame(3D) | 2023.06.26 ~ 2023.07.09 | SBS GAME ACADEMY, Home | 
 | Vampire Survivors(2D) | 2023.07.12 ~ 2023.08.26 | SBS GAME ACADEMY, Home | 
-| S_RPG(2D) | 2023.08.18 ~ 진행중 | SBS GAME ACADEMY | 
  ---------------------
 </div>
