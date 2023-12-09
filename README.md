@@ -25,5 +25,7 @@
 | Inventory(2D) | 2023.05.30 ~ 2023.06.19 | SBS GAME ACADEMY |  
 | MIniGame(3D) | 2023.06.26 ~ 2023.07.09 | SBS GAME ACADEMY, Home | 
 | Vampire Survivors(2D) | 2023.07.12 ~ 2023.08.26 | SBS GAME ACADEMY, Home | 
+| Christmas_Carol(2D) | 2023.09.21 ~ 2023.11.22 | Home, School | 
+| science-special-taxation(2D) | 2023.12.26 ~ 2023.12.28 | Home | 
  ---------------------
 </div>
