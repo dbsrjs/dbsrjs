@@ -16,7 +16,7 @@
 
 | What | When | Where |
 |:--------:|:--------:|:--------:|
-| ShootingGame(2D) | 2023.02.13 ~ 2023.02.23 | SBS GAME ACADEMY, Hpme |
+| ShootingGame(2D) | 2023.02.13 ~ 2023.02.23 | SBS GAME ACADEMY, Home |
 | land mine(2D) | 2023.02.24 ~ 2023.03.03 | SBS GAME ACADEMY |  
 | Tetris(2D) | 2023.03.06 ~ 2023.03.30 | SBS GAME ACADEMY |
 | Maze(3D) | 2023.04.03 ~ 2023.04.26 | SBS GAME ACADEMY |
