@@ -5,13 +5,12 @@
 # My name is YoonGun Lee
   ---------------------
  ### My favorite language is C#
- ### I am currently studying C# and JAVA
+ ### I am currently studying Unity and Unreal
   ---------------------
  ### My information
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&theme=dracula)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&layout=compact)
-
   ---------------------
 <h1> Experience </h1>
 
