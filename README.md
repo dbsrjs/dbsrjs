@@ -28,5 +28,6 @@
 | Science-special-taxation(2D) | 2023.11.26 ~ 2023.11.28 | Home | 
 | Tower_Defense(2D) | 2023.12.09 ~ 2023.12.31 | Home | 
 | Bouncy_BALL(2D) | 2024.01.09 | Home | 
+| puzzle(2D) | 2024.01.10 ~ | SBS GAME ACADEMY, Home | 
  ---------------------
 </div>
