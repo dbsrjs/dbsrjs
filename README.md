@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School.
 
-🚀 I’m currently studying Unity and Unreal.
+🎓 I’m currently studying Unity and Unreal.
 
 👨‍💻 I’m attending SBS Game Academy.
 
