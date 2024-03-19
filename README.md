@@ -1,35 +1,49 @@
-<div align="center">
+![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&colorTF5779&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-   
-  ---------------------
- ### My favorite language is C#
- ### I am currently studying Unity and Unreal
-  ---------------------
- ### language and tools
+
+<br><br><br>
+
+## 🙋‍♂️ About Me
+🌱 I’m a second year student at Seongil Information High School.
+
+🚀 I’m currently studying Unity and Unreal.
+
+👨‍💻 I’m attending SBS Game Academy.
+
+📫 My email : **dbsrjs1224@gmail.com**
+
+<br>
+
+ ## language and tools
  <p align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!--JAVA-->
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <!--PYTHON-->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <!--C++-->
-  <img src ="https://img.shields.io/badge/C-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <!--ORACLE-->
-  <img src ="https://img.shields.io/badge/CSHAP-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> <!--APACHE-->
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" /> <!--C-->
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" /> <!--C++-->
+  <img src ="https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=" /> <!--C#-->
 </p>
 
 <p aling="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!--ECLIPS-->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <!--VISUALSTUDIOCODE-->
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--VISUALSTUDIO-->
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <!--VISUALSTUDIO-->
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/> <!--UNITY++-->
-<img src="https://img.shields.io/badge/Unreal++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> <!--Unreal++-->
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=" /> <!--Unity-->
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unreal&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=" />  <!--Unreal-->
 </p>
- 
+
+<br>
+
+## My Github Stats
 <p align="center">
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=Parkbohyun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Parkbohyun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parkbohyun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkbohyun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Parkbohyun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkbohyun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Github Stats" src="https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="dbsrjs Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrjs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
-  ---------------------
+
+<br>
+
 <h1> Experience </h1>
 
 | What | When | Where |
