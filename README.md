@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&colorTF5779&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-<br><br><br>
+<br><br>
 
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School.
