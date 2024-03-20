@@ -1,6 +1,6 @@
 ![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=AUTO&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=9CB8B7&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -9,7 +9,7 @@
 
 🎓 I’m currently studying Unity and Unreal.
 
-👨‍💻 I’m attending SBS Game Academy.
+💻 I’m attending SBS Game Academy.
 
 📫 My email : **dbsrjs1224@gmail.com**
 
@@ -44,7 +44,7 @@
 
 <br>
 
-<h1> Experience </h1>
+<h2> Experience </h2>
 
 | What | When | Where |
 |:--------:|:--------:|:--------:|
