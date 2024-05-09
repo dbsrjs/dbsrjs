@@ -9,8 +9,6 @@
 
 🎓 I’m currently studying Unity and Unreal.
 
-💻 I’m attending SBS Game Academy.
-
 📫 My email : **dbsrjs1224@gmail.com**
 
 <br>
