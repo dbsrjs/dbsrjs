@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School.
-
+김민성 왔다감
 🎓 I’m currently studying Unity and Unreal.
 
 📫 My email : **dbsrjs1224@gmail.com**
