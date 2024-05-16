@@ -11,7 +11,7 @@
 
 📫 My email : **dbsrjs1224@gmail.com**
 
-김민성 왔다감
+윤건이 깃허브 털렸죠? - 김민성 -
 <br>
 
  ## language and tools
