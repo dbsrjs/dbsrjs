@@ -50,17 +50,17 @@
   
   | What | When | Where |
 |:--------:|:--------:|:--------:|
-| 성일정보고등학교 소프트웨어과 재학중 | 2023.03.02 ~ 현재 | Sungil Information High School |
-| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023.03 ~ 현재 | Sungil Software Study (SSS) |
-| 성일정보고등학교 게임 개발 동아리 | 2024.04 ~ 현재 | Game Development Club |
-| 성일정보고등학교 방과후 자바 기초 | 2023.05.11 ~ 07.19 | After School Class |
+| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 02 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 게임 개발 동아리 | 2024. 04 ~ 현재 | Game Development Club |
+| 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 현재 | After School Class |
 | 2024 지방기능경기대회 게임개발 참가 | 2024. 04. 04 | MeisterNet |
-| 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 2024.04.04| SBS GAME ACADEMY | 
-| SBS 아카데미 게임 개발 학원(UNITY) | 2022.11.10 ~ 2024. 04 | SBS GAME ACADEMY |
-| SBS 아카데미 게임 개발 학원(UNREAL) | 2024.01.10 ~ 현재 | SBS GAME ACADEMY |
+| 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 2024. 04. 04 | SBS GAME ACADEMY | 
+| SBS 아카데미 게임 개발 학원(UNITY) | 2022. 11. 10 ~ 2024. 04 | SBS GAME ACADEMY |
+| SBS 아카데미 게임 개발 학원(UNREAL) | 2024. 01. 10 ~ 현재 | SBS GAME ACADEMY |
 </details>
 
 <details>
@@ -68,7 +68,7 @@
 
   | What | When | Where |
 |:--------:|:--------:|:--------:|
-| ShootingGame(2D) | 2023.02.13 ~ 2023.02.23 | SBS GAME ACADEMY, Home |
+| ShootingGame(2D) | 2023. 02. 13 ~ 2023.02.23 | SBS GAME ACADEMY, Home |
 | land mine(2D) | 2023.02.24 ~ 2023.03.03 | SBS GAME ACADEMY |  
 | Tetris(2D) | 2023.03.06 ~ 2023.03.30 | SBS GAME ACADEMY |
 | Maze(3D) | 2023.04.03 ~ 2023.04.26 | SBS GAME ACADEMY |
