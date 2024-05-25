@@ -45,9 +45,28 @@
 
 <br>
 
-<h2> Experience </h2>
+<details>
+  <summary><h2>About me</h2></summary>
+  
+  | What | When | Where |
+|:--------:|:--------:|:--------:|
+| 성일정보고등학교 소프트웨어과 재학중 | 2023.03.02 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023.03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 게임 개발 동아리 | 2024.04 ~ 현재 | Game Development Club |
+| 성일정보고등학교 방과후 자바 기초 | 2023.05.11 ~ 07.19 | After School Class |
+| 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
+| 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 현재 | After School Class |
+| 2024 지방기능경기대회 게임개발 참가 | 2024. 04. 04 | MeisterNet |
+| 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 2024.04.04| SBS GAME ACADEMY | 
+| SBS 아카데미 게임 개발 학원(UNITY) | 2022.11.10 ~ 2024. 04 | SBS GAME ACADEMY |
+| SBS 아카데미 게임 개발 학원(UNREAL) | 2024.01.10 ~ 현재 | SBS GAME ACADEMY |
+</details>
 
-| What | When | Where |
+<details>
+  <summary><h2>Game Development Experience </h2></summary>
+
+  | What | When | Where |
 |:--------:|:--------:|:--------:|
 | ShootingGame(2D) | 2023.02.13 ~ 2023.02.23 | SBS GAME ACADEMY, Home |
 | land mine(2D) | 2023.02.24 ~ 2023.03.03 | SBS GAME ACADEMY |  
@@ -55,13 +74,13 @@
 | Maze(3D) | 2023.04.03 ~ 2023.04.26 | SBS GAME ACADEMY |
 | Elevator, UI(3D) | 2023.04.27 ~ 2023.05.22 | SBS GAME ACADEMY, Home |
 | Inventory(2D) | 2023.05.30 ~ 2023.06.19 | SBS GAME ACADEMY |  
-| MIniGame(3D) | 2023.06.26 ~ 2023.07.09 | SBS GAME ACADEMY, Home | 
+| MiniGame(3D) | 2023.06.26 ~ 2023.07.09 | SBS GAME ACADEMY, Home | 
 | Vampire Survivors(2D) | 2023.07.12 ~ 2023.08.26 | SBS GAME ACADEMY, Home | 
 | Christmas_Carol(2D) | 2023.09.21 ~ 2023.11.22 | Home, School | 
 | Science-special-taxation(2D) | 2023.11.26 ~ 2023.11.28 | Home | 
 | Tower_Defense(2D) | 2023.12.09 ~ 2023.12.31 | Home | 
 | Bouncy_BALL(2D) | 2024.01.09 | Home | 
 | wmg_puzzle(2D) | 2024.01.10 ~ 2024.04.04| SBS GAME ACADEMY, Home | 
-| ActionGame(3D) | 2024.04.17 ~ 2024.05.19 | Home |
- ---------------------
+| ActionGame(3D) | 2024.04.17 ~ 2024.05.26 | Home |
+</details>
 </div>
