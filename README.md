@@ -56,7 +56,8 @@
 | 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08. 23 ~ 12. 21 | After School Class |
-| 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 현재 | After School Class |
+| 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 06. 11 | After School Class |
+| 성일정보고등학교 방과후 자바 Level4 | 2024. 06. 12 ~ 현재 | After School Class |
 | 2024 지방기능경기대회 게임개발 참가 | 2024. 04. 04 | MeisterNet |
 | 게임 개발 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 04. 03 | SBS GAME ACADEMY | 
 | SBS 아카데미 게임 개발 학원(UNITY) | 2022. 11. 10 ~ 04. 03 | SBS GAME ACADEMY |
