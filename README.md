@@ -61,7 +61,7 @@
 | 2024 지방기능경기대회 게임개발 참가 | 2024. 04. 04 | MeisterNet |
 | 게임 개발 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 04. 03 | SBS GAME ACADEMY | 
 | SBS 아카데미 게임 개발 학원(UNITY) | 2022. 11. 10 ~ 04. 03 | SBS GAME ACADEMY |
-| SBS 아카데미 게임 개발 학원(UNREAL) | 2024. 01. 10 ~ 현재 | SBS GAME ACADEMY |
+| SBS 아카데미 게임 개발 학원(UNREAL) | 2024. 01. 10 ~ 08. 18 | SBS GAME ACADEMY |
 </details>
 
 <details>
