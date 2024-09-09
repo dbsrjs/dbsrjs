@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School. 
 
-🎓 I’m currently studying game development.
+🎓 I'm mainly studying game development.
 
 📫 My email : **dbsrjs1224@gmail.com**
 
