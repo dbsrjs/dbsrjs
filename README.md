@@ -11,9 +11,8 @@
 
 📫 My email : **dbsrjs1224@gmail.com**
 
-My noiton : <a href = "https://sphenoid-ginger-4a4.notion.site/e0259964a60e4985b2d5a6875062c113?v=54a2ae11e93b4381a5a9aa674a243dee&pvs=4" target="blank" title="My Portfolio Page (Notion)"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"></a>
+🏢 My notion : <a href = "https://sphenoid-ginger-4a4.notion.site/e0259964a60e4985b2d5a6875062c113?v=54a2ae11e93b4381a5a9aa674a243dee&pvs=4" target="blank" title="My Portfolio Page (Notion)"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"></a>
 <br>
-
  ## language and tools
  <p align="center"> <!--language-->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!--JAVA-->
