@@ -22,6 +22,7 @@
   <img src ="https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=" /> <!--C#-->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <!--HTML-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <!--css-->
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <!--oracle-->
 </p>
 
 <p aling="center"><!--tools-->
