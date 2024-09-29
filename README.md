@@ -56,7 +56,7 @@
 | 성일정보고등학교 게임 개발 동아리 | 2024. 04 ~ 현재 | Game Development Club |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
-| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 23 ~ 12. 21 | After School Class |
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | After School Class |
 | 성일정보고등학교 방과후 자바 Level3 | 2024. 04. 11 ~ 06. 11 | After School Class |
 | 성일정보고등학교 방과후 자바 Level4 | 2024. 06. 12 ~ 07. 26 | After School Class |
 | 성일정보고등학교 앱 개발 특강 | 2024. 09. 20 ~ 10. 25 | After School Class |
