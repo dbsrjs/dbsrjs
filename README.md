@@ -86,7 +86,6 @@
 | Bouncy_BALL(2D) | 2024. 01. 09 | Home | 
 | wmg_puzzle(2D, Team Project) | 2024. 01. 10 ~ 04. 04| SBS GAME ACADEMY, Home | 
 | ActionGame(3D) | 2024. 04. 17 ~ 06. 16 | Home |
-| ParkSiWoo(3D) | 2024. 08. 16 | School |
 | STG-2007(3D, Team Project) | 2024. 08. 02 ~ 현재 | Home |
 | TopDown Shooting(3D) | 2024. 09. 07 ~ 09. 17 | Home |
 </details>
