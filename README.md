@@ -62,7 +62,7 @@
 | 성일정보고등학교 앱 개발 특강 | 2024. 09. 20 ~ 10. 25 | After School Class |
 | 2024 지방기능경기대회 게임개발 참가 | 2024. 04. 01 ~ 04. 04 | MeisterNet |
 | 게임 개발 팀 프로젝트(wmg_puzzle) | 2024.01.10 ~ 04. 03 | SBS GAME ACADEMY | 
-| 경기도x퓨처랩 청소년 게임잼 참가 | 2024. 10. 31 ~ 11. 01 | SBS GAME ACADEMY |
+| 경기도x퓨처랩 청소년 게임잼 참가 | 2024. 10. 31 ~ 11. 01 | Smilegate office |
 | SBS 아카데미 게임 개발 학원(UNITY) | 2022. 11. 10 ~ 04. 03 | SBS GAME ACADEMY |
 | SBS 아카데미 게임 개발 학원(UNREAL) | 2024. 01. 10 ~ 08. 18 | SBS GAME ACADEMY |
 </details>
