@@ -52,7 +52,7 @@
   | What | When | Where |
 |:--------:|:--------:|:--------:|
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 02 ~ 현재 | Sungil Information High School |
-| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study |
 | 성일정보고등학교 게임 개발 동아리 | 2024. 04 ~ 현재 | Game Development Club |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | After School Class |
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | After School Class |
