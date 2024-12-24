@@ -5,7 +5,7 @@
 <br><br>  
 
 ## 🙋‍♂️ About Me
-🌱 I’m a second year student at Seongil Information High School.
+🌱 I’m a second year student at Seongil Information High School. 
 
 🎓 I'm mainly studying game development.
 
