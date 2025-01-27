@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=9CB8B7&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-<br><br>  
+<br><br>    
 
 ## 🙋‍♂️ About Me
 🌱 I’m a second year student at Seongil Information High School.  
@@ -89,5 +89,6 @@
 | STG-2007(3D, Team Project) | 2024. 08. 02 ~ 현재 | Home |
 | TopDown Shooting(3D) | 2024. 09. 07 ~ 09. 17 | Home |
 | Horizontal Dodg(2D) | 2024. 12. 03 ~ 12. 09 | Home |
+| Tetris(2D) | 2025.~ 12. 09 | Home |
 </details>
 </div>
