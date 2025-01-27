@@ -89,6 +89,6 @@
 | STG-2007(3D, Team Project) | 2024. 08. 02 ~ 현재 | Home |
 | TopDown Shooting(3D) | 2024. 09. 07 ~ 09. 17 | Home |
 | Horizontal Dodg(2D) | 2024. 12. 03 ~ 12. 09 | Home |
-| Tetris(2D) | 2025.~ 12. 09 | Home |
+| Tetris(2D) | 2025. 01. 20 ~ 01. 29 | Home |
 </details>
 </div>
