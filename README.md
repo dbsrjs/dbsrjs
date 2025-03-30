@@ -12,12 +12,12 @@
 📫 My email : **dbsrjs1224@gmail.com** 
 
 🏢 My notion : <a href = "https://sphenoid-ginger-4a4.notion.site/e0259964a60e4985b2d5a6875062c113?v=54a2ae11e93b4381a5a9aa674a243dee&pvs=4" target="blank" title="My Portfolio Page (Notion)"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"></a>
-<br>
+<br> 
  ## language and tools
  <p align="center"> <!--language-->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!--JAVA-->
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <!--PYTHON-->
-  <!--<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" /> <!--C-->
+  <!--<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" /> <!--C--> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" /> <!--C++-->
   <img src ="https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=" /> <!--C#-->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <!--HTML-->
