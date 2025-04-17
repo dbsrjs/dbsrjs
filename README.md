@@ -83,7 +83,7 @@
 | Christmas_Carol(2D) | 2023. 09. 21 ~ 11. 22 | Home, School | 
 | Science-special-taxation(2D) | 2023. 11. 26 ~ 11.28 | Home | 
 | Tower_Defense(2D) | 2023. 12. 09 ~ 12. 31 | Home | 
-| Bouncy_BALL(2D) | 2024. 01. 09 | Home | 
+| Bouncy_BALL(3D) | 2024. 01. 09 | Home | 
 | wmg_puzzle(2D, Team Project) | 2024. 01. 10 ~ 04. 04 | SBS GAME ACADEMY, Home | 
 | ActionGame(3D) | 2024. 04. 17 ~ 06. 16 | Home |
 | TopDown Shooting(3D) | 2024. 09. 07 ~ 09. 17 | Home |
