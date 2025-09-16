@@ -65,6 +65,7 @@
 | 경기도x퓨처랩 청소년 게임잼 참가 | 2024. 10. 31 ~ 11. 01 | Smilegate office |
 | SBS 아카데미 게임 개발 학원(UNITY) | 2022. 11. 10 ~ 04. 03 | SBS GAME ACADEMY |
 | SBS 아카데미 게임 개발 학원(UNREAL) | 2024. 01. 10 ~ 08. 18 | SBS GAME ACADEMY |
+| TOBESMART | 2025. 03. 04 ~ 현재 | tobesmart office |
 </details>
 
 <details>
