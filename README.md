@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG: 바이브 코딩 & 현재 직무 강조 -->
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=9CB8B7&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <!-- 사이버펑크/코딩 감성 GIF -->
@@ -34,8 +34,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><!-- GPT -->
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><!-- claude -->
-  <!-- <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />--><!-- Cursor -->
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /><!-- Copilot -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><!-- Cursor -->
+  <!-- <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />--><!-- Copilot -->
   
 </p>
 
