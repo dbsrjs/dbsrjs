@@ -5,9 +5,8 @@
 
 <br>
 
-<!-- 🚨 중요: 1단계에서 저장소에 업로드한 GIF 파일 이름을 아래에 적으세요 -->
-<!-- 예: vibe_coding.gif 라면, 아래 링크를 <img src="vibe_coding.gif" ...> 로 수정 -->
-<img src="YOUR_GIF_FILE_NAME.gif" width="400" alt="Vibe Coding Animation" />
+<!-- 🚨 중요: 저장소에 업로드한 실제 GIF 파일 이름(clawd-typing.gif)을 사용합니다 -->
+<img src="clawd-typing.gif" width="400" alt="Vibe Coding Animation" />
 
 <br><br>
 
@@ -37,7 +36,7 @@
 <p align="center">
   <!-- 클로드 주력 강조 (주황색) -->
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><!-- claude -->
-  <!-- ChatGPT 회색 뱃지로 변경 -->
+  <!-- ChatGPT 회색 뱃지 -->
   <img src="https://img.shields.io/badge/ChatGPT-747775?style=for-the-badge&logo=openai&logoColor=white" /><!-- GPT -->
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><!-- Cursor -->
 </p>
