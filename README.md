@@ -9,10 +9,8 @@
 <table border="0" align="center">
   <tr>
     <td width="300px" align="center" valign="middle" style="vertical-align: middle; border: none; text-align: center;">
-      <!-- GIF 중앙 정렬 및 크기 조정 -->
-      <p align="center" style="margin: 0;">
-        <img src="clawd-typing.gif" width="300px" alt="Vibe Coding Animation" align="center" style="display: block; margin: 0 auto;"/>
-      </p>
+      <!-- GIF 크기를 333px로 조정 -->
+      <img src="clawd-typing.gif" width="333px" alt="Vibe Coding Animation" align="center" style="display: block; margin: 0 auto;"/>
     </td>
     <td width="450px" style="vertical-align: top; border: none; padding-left: 20px;">
       <h3 align="left">🧑‍💻 Character Profile</h3>
@@ -22,7 +20,7 @@
         <li style="margin-bottom: 8px;">🏢 <b>Role</b>: Kiosk (WPF) & Mobile (Flutter)</li>
         <li style="margin-bottom: 8px;">⚡ <b>Focus</b>: Exploring Vibe Coding with AI Tools</li>
         <li style="margin-bottom: 8px;">📧 <b>Message</b>: dbsrjs1224@gmail.com</li>
-        <li style="margin-bottom: 8px;">📜 <b>Log</b>: <a href="https://sphenoid-ginger-4a4.notion.site/e0259964a60e4985b2d5a6875062c113?v=54a2ae11e93b4381a5a9aa674a243dee&pvs=4" target="blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" style="vertical-align: middle;"/></a></li>
+        <li style="margin-bottom: 8px;">📜 <b>Log</b>: <a href="https://sphenoid-ginger-4a4.notion.site/e0259964a60e4985b2d5a6875062c113?v=54a2ae11e93b4381a5a9aa674a243dee&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" style="vertical-align: middle;"/></a></li>
       </ul>
     </td>
   </tr>
