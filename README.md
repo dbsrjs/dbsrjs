@@ -3,10 +3,13 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=9CB8B7&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Yoongun+Lee+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-<!-- 사이버펑크/코딩 감성 GIF -->
-<!-- <img src="https://media.giphy.com/media/qgQUGGAC3P4F81zp55/giphy.gif" width="400" alt="Vibe Coding Animation" /> -->
-
 <br>
+
+<!-- 🚨 중요: 1단계에서 저장소에 업로드한 GIF 파일 이름을 아래에 적으세요 -->
+<!-- 예: vibe_coding.gif 라면, 아래 링크를 <img src="vibe_coding.gif" ...> 로 수정 -->
+<img src="YOUR_GIF_FILE_NAME.gif" width="400" alt="Vibe Coding Animation" />
+
+<br><br>
 
 ## 🧑‍💻 Dev Profile
 
@@ -32,11 +35,11 @@
 
 ### 🤖 AI & Vibe Coding Workflow
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><!-- GPT -->
+  <!-- 클로드 주력 강조 (주황색) -->
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><!-- claude -->
+  <!-- ChatGPT 회색 뱃지로 변경 -->
+  <img src="https://img.shields.io/badge/ChatGPT-747775?style=for-the-badge&logo=openai&logoColor=white" /><!-- GPT -->
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><!-- Cursor -->
-  <!-- <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />--><!-- Copilot -->
-  
 </p>
 
 ### 🎮 Origin (Game Engine)
