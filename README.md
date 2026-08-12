@@ -24,18 +24,19 @@
 
 ### 🚀 Daily Work & Mobile
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><!-- WPF -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><!-- C# -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><!-- Flutter -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><!-- Dart -->
 </p>
 
 ### 🤖 AI & Vibe Coding Workflow
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><!-- GPT -->
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><!-- claude -->
+  <!-- <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />--><!-- Cursor -->
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /><!-- Copilot -->
+  
 </p>
 
 ### 🎮 Origin (Game Engine)
@@ -46,11 +47,11 @@
 
 <br>
 
-## 🏆 Vibe Trophy
+## 📊 Vibe Activity
 
 <p align="center">
   <a href="https://github.com/dbsrjs">
-    <img src="https://github-profile-trophy.vercel.app/?username=dbsrjs&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Yoongun's Trophies" />
+    <img src="https://ghchart.rshah.org/tokyonight/dbsrjs" alt="Yoongun's Github Chart" width="100%" />
   </a>
 </p>
 
